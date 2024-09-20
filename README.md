@@ -10,7 +10,7 @@ El S&P 500 es uno de los índices más longevos y fuertes, pero actualmente se e
 
 A continuación se muestra un gráfico que ilustra la tendencia de los tipos de interés en EE. UU.:
 
-![Gráfico de Tipos de Interés](URL_DEL_GRÁFICO)
+![Gráfico de Tipos de Interés](http://www.w3.org/2000/svg)
 
 ## Modelos Utilizados
 
