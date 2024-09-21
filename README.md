@@ -1,6 +1,4 @@
-Aquí tienes el README completo con emojis para resaltar algunos puntos clave:
 
----
 
 # 📊 Análisis de Series Temporales del S&P 500 📉
 
